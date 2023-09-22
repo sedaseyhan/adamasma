@@ -1,2 +1,2 @@
 "# adamasma" 
-![](adamm.jpeg)
+![](adamm.JPG)
